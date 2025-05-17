@@ -11,10 +11,14 @@
             "id": "0eabf70338f874e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Svět/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -208,12 +212,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "b3428cf0fd769be2",
+  "active": "3e4d937f33d49819",
   "lastOpenFiles": [
+    "Templates/Monstrum.md",
+    "Svět/test.md",
     "Postavy/Postava 1/Backstory.md",
     "Campaign 3/mňau.md",
     "Ziggurat/Templates/{{title}} - NPCs.md",
@@ -244,10 +250,8 @@
     "Ziggurat/Maps/Svět.md",
     "Ziggurat/Maps/Severní pustiny.md",
     "Ziggurat/Maps/Poloostrov Miris.md",
-    "Ziggurat/Maps/Dimenze.md",
     "Ziggurat/Maps",
     "Ziggurat/Lokace",
-    "Ziggurat/Lidi/Xerius.md",
     "Ziggurat/Lidi",
     "Ziggurat/Items",
     "Ziggurat/assets/Redwill/Pasted image 20250501193606.png",
