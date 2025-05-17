@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98354ec31617cb9e",
+        "id": "bd595157703032c8",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5ebc4253c33884",
+            "id": "0eabf70338f874e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Předmět.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Předmět"
+              "title": "New tab"
             }
           }
         ]
@@ -157,16 +153,46 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "561d121be0f0d608",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "c76afd6d8d616693",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "3e4d937f33d49819",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,46 +208,57 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc5ebc4253c33884",
+  "active": "0eabf70338f874e3",
   "lastOpenFiles": [
-    "Monstra/5e/A-mi-kuk.md",
-    "Templates/Předmět.md",
-    "Monstra/5e/Abominable Beauty.md",
-    "Monstra/5e/Adranach.md",
-    "Monstra/5e/Abominable Snowman (A5E).md",
-    "Monstra/5e/Accursed Spirit Naga (A5E).md",
-    "Monstra/5e/Adamanticore (A5E).md",
-    "Monstra/5e/Adult Amethyst Dragon (A5E).md",
-    "Monstra/5e/Adult Amethyst Dragon Spellcaster (A5E).md",
-    "Monstra/5e/Adult Black Dragon (A5E).md",
-    "Monstra/5e/Abaasy.md",
-    "Templates/Monstrum.md",
-    "Magické itemy",
     "Postavy/Postava 1/Backstory.md",
-    "Postavy/Postava 1/Sheet.md",
-    "COVER.md",
-    "Postavy/Postava 1",
-    "Zdroje/Tome of Mystical Tattoos/Tome of Mystical Tattoos.md",
-    "Zdroje/Tome of Mystical Tattoos",
-    "Zdroje/Monster Manual/Monster Manual.md",
-    "Zdroje/Monster Manual",
-    "Zdroje/MCDM/Arcadia/Arcadia 9.md",
-    "Zdroje/MCDM/Arcadia/Arcadia Index.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 8.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 7.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 6.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 3.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 5.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 4.md",
-    "Zdroje/MCDM/Arcadia/Arcadia 26.md",
-    "Zdroje/MCDM/Arcadia",
-    "Zdroje/MCDM",
-    "Zdroje/Limitless Heroics",
-    "Zdroje",
-    "Sources",
-    "New folder"
+    "Campaign 3/mňau.md",
+    "Ziggurat/Templates/{{title}} - NPCs.md",
+    "Ziggurat/Templates/{{title}} - Lokace.md",
+    "Ziggurat/Templates/{{title}} - Lidi.md",
+    "Ziggurat/Templates/{{title}} - Items.md",
+    "Ziggurat/Templates/{{title}} - Characters.md",
+    "Ziggurat/Items/Bambitka Poznání.md",
+    "Ziggurat/Items/Magická kniha Zigguratu.md",
+    "Ziggurat/Zápisy.md",
+    "Ziggurat/zz Writing Cheatsheet.md",
+    "Ziggurat/Postavy.md",
+    "Ziggurat/Spellbook Checklist.md",
+    "Campaign 3/Templates/Předmět.md",
+    "Ziggurat/zz notes.md",
+    "Ziggurat/Stuff Maker.md",
+    "Ziggurat/Zápisy/There are things in the shadows! IV..md",
+    "Ziggurat/Zápisy/Strom Hojnosti II..md",
+    "Ziggurat/Zápisy/Severní přístaviště město Soluna.md",
+    "Ziggurat/Zápisy",
+    "Ziggurat/World",
+    "Ziggurat/Templates/{{title}} - Zápis.md",
+    "Ziggurat/Templates",
+    "Ziggurat/Scripts",
+    "Ziggurat/NPCs/Krauli.md",
+    "Ziggurat/NPCs",
+    "Ziggurat/Monsters",
+    "Ziggurat/Maps/Svět.md",
+    "Ziggurat/Maps/Severní pustiny.md",
+    "Ziggurat/Maps/Poloostrov Miris.md",
+    "Ziggurat/Maps/Dimenze.md",
+    "Ziggurat/Maps",
+    "Ziggurat/Lokace",
+    "Ziggurat/Lidi/Xerius.md",
+    "Ziggurat/Lidi",
+    "Ziggurat/Items",
+    "Ziggurat/assets/Redwill/Pasted image 20250501193606.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501194437.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501194430.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501194423.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501193546.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501194413.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501193539.png",
+    "Ziggurat/assets/Redwill/Pasted image 20250501193423.png",
+    "Ziggurat/assets/svět.png",
+    "Ziggurat/assets/Severni_pustiny.png"
   ]
 }

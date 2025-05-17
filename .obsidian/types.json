@@ -26,6 +26,8 @@
     "attunement": "checkbox",
     "magical": "checkbox",
     "vlastník": "multitext",
-    "desc": "multitext"
+    "desc": "multitext",
+    "type": "multitext",
+    "příchod": "date"
   }
 }

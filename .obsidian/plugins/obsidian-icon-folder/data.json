@@ -34,13 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Assety": "LiTrash",
-  "Monstra": "LiSwords",
-  "NPCčka": "LiVenetianMask",
-  "Postavy": "LiDrama",
-  "Sezení": "LiNotebookPen",
-  "Svět": "LiEarth",
-  "Templates": "LiList",
-  "Zdroje": "LiBookPlus",
-  "Magické itemy": "LiCuboid"
+  "Campaign 3/Magické itemy": "LiCuboid",
+  "Campaign 3/Assety": "LiTrash",
+  "Campaign 3/Monstra": "LiSwords",
+  "Campaign 3/NPCčka": "LiVenetianMask",
+  "Campaign 3/Postavy": "LiDrama",
+  "Campaign 3/Sezení": "LiNotebookPen",
+  "Campaign 3/Svět": "LiEarth",
+  "Campaign 3/Templates": "LiList",
+  "Campaign 3/Zdroje": "LiBookPlus"
 }
