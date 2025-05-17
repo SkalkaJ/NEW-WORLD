@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b8300eb057d875df",
+    "type": "split",
+    "children": [
+      {
+        "id": "98354ec31617cb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5ebc4253c33884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Předmět.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Předmět"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62dc035057f7d2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1141afb39674dcfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3428cf0fd769be2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d4116fb842c3872f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1445acb25b4ec8b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63935cad84d424c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "318e38f3c3d06f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27bacccd633bdcc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Předmět.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Předmět"
+            }
+          },
+          {
+            "id": "8cb55f954c3f7a9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Předmět.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Předmět"
+            }
+          },
+          {
+            "id": "d279f6f51a238390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69709a44ab17dc9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Předmět.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Předmět"
+            }
+          },
+          {
+            "id": "d56df6b63615250c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "fc5ebc4253c33884",
+  "lastOpenFiles": [
+    "Monstra/5e/A-mi-kuk.md",
+    "Templates/Předmět.md",
+    "Monstra/5e/Abominable Beauty.md",
+    "Monstra/5e/Adranach.md",
+    "Monstra/5e/Abominable Snowman (A5E).md",
+    "Monstra/5e/Accursed Spirit Naga (A5E).md",
+    "Monstra/5e/Adamanticore (A5E).md",
+    "Monstra/5e/Adult Amethyst Dragon (A5E).md",
+    "Monstra/5e/Adult Amethyst Dragon Spellcaster (A5E).md",
+    "Monstra/5e/Adult Black Dragon (A5E).md",
+    "Monstra/5e/Abaasy.md",
+    "Templates/Monstrum.md",
+    "Magické itemy",
+    "Postavy/Postava 1/Backstory.md",
+    "Postavy/Postava 1/Sheet.md",
+    "COVER.md",
+    "Postavy/Postava 1",
+    "Zdroje/Tome of Mystical Tattoos/Tome of Mystical Tattoos.md",
+    "Zdroje/Tome of Mystical Tattoos",
+    "Zdroje/Monster Manual/Monster Manual.md",
+    "Zdroje/Monster Manual",
+    "Zdroje/MCDM/Arcadia/Arcadia 9.md",
+    "Zdroje/MCDM/Arcadia/Arcadia Index.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 8.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 7.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 6.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 3.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 5.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 4.md",
+    "Zdroje/MCDM/Arcadia/Arcadia 26.md",
+    "Zdroje/MCDM/Arcadia",
+    "Zdroje/MCDM",
+    "Zdroje/Limitless Heroics",
+    "Zdroje",
+    "Sources",
+    "New folder"
+  ]
+}
